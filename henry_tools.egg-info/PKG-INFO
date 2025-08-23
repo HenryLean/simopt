@@ -1,7 +1,0 @@
-Metadata-Version: 2.1
-Name: henry-tools
-Version: 0.1.0
-Summary: Private Tools
-Author: T. Henry Lian
-Author-email: tlian@fudan.edu.cn
-Requires-Dist: numpy

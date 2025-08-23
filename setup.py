@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="henry-tools",
+    name="simopt-tools",
     version="0.1.0",
     author="T. Henry Lian",
     author_email="tlian@fudan.edu.cn",
