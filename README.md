@@ -1,6 +1,6 @@
 # simopt-tools
 
-A personal toolkit project containing a collection of useful scripts and utilities for the usage of the other projects.  In particular, my reseach interest lies on simulation optimization.
+A personal toolkit project containing a collection of useful scripts and utilities for the usage of the other projects that focus on simulation and optimization.
 
 ## Features
 
