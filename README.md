@@ -22,7 +22,3 @@ A personal toolkit project containing a collection of useful scripts and utiliti
 ## Contributing
 
 Feel free to submit issues or pull requests to improve this project.
-
-## License
-
-MIT License
